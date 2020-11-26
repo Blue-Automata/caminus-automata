@@ -1,0 +1,29 @@
+{
+  "name": "caminus-automata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blue-Automata/caminus-automata.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blue-Automata/caminus-automata/issues"
+  },
+  "homepage": "https://github.com/Blue-Automata/caminus-automata#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chromedriver": "^86.0.0",
+    "selenium-webdriver": "^4.0.0-alpha.7",
+    "test-ai-classifier-client": "^1.1.0"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^7.0.0-rc.0"
+  }
+}
